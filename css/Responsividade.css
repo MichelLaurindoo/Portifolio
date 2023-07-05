@@ -1,0 +1,13 @@
+@media only screen and (max-width: 800px) {
+    .menu, a{
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        height: 340px;
+        padding: 0px;
+        float: none;
+    }
+    .navbar{
+        height: 200px;
+    }
+}
